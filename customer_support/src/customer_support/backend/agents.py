@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-suppoert_agent = Agent(
+support_agent = Agent(
     model=MODEL_MEDIUM, system_prompt="You are a customer support agent"
 )
 
