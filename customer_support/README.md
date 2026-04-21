@@ -74,7 +74,7 @@ Test endpoint:
 
 open new terminal:
 
-cd src/customer_support/frontend
+```cd src/customer_support/frontend```
 
 Run:
 
